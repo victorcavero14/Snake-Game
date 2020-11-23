@@ -1,3 +1,3 @@
 # Snake-Game
 
-## Repository just for testing purposes 
+### Repository just for testing purposes 
